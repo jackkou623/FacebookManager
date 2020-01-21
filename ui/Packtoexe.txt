@@ -1,0 +1,2 @@
+pyinstaller -F --noconsole --onefile main.py
+pyuic5 -x GUI_MainWindow.ui -o GUI_MainWindow.py
